@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
 
 
-# I'm Pratyusa Dwibedy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+# I'm Roubish Kumar Pushkar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
 
 
 🎓A little about me, I'm Roubish Kumar Pushkar, Data Science and Machine Learning enthusiast, Web and Python Developer , Bangalore, India, Completed MCA in Reva University 😎.Now i am Doing Data Science. My hobby is to playing Video Games Like NFS, PUBG,The Witcher etc. 
