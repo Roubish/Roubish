@@ -30,7 +30,7 @@
 
 
 <p align="center">
- <img align="center" alt="JPG" src="https://github.com/Roubish/Roubish/My_portfolio/img/design.jpg" height="300px">
+ <img align="center" alt="JPG" src="https://github.com/Roubish/Roubish.io/My_portfolio/img/design.jpg" height="300px">
 
 </p>
 
