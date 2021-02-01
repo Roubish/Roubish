@@ -30,7 +30,7 @@
 
 
 <p align="center">
- <img align="center" alt="JPG" src="https://pratyusa98.github.io/My_portfolio/img/design.jpg" height="300px">
+ <img align="center" alt="JPG" src="https://roubish.github.io/My_portfolio/img/design.jpg" height="300px">
 
 </p>
 
