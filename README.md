@@ -16,7 +16,7 @@
 - 👨🏽‍💻 I am Currently working on imporving my AI, ML and Deep Learning skills 
 - 💬 My all work in Machine Learning Look into My Repo.
 - 🏄‍ Always into learning new things and looking to contribute to open source as much as possible
-- 💬 Reach me, ask me anything & anytime, I will be happy to help (+91 7077079340)
+- 💬 Reach me, ask me anything & anytime, I will be happy to help (+91 7858892005)
 - 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
 <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif"  width="200vw" >
@@ -30,7 +30,7 @@
 
 
 <p align="center">
- <img align="center" alt="JPG" src="https://pratyusa98.github.io/My_portfolio/img/design.jpg" height="300px">
+ <img align="center" alt="JPG" src="https://github.com/Roubish/Roubish/My_portfolio/img/design.jpg" height="300px">
 
 </p>
 
