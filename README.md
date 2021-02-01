@@ -13,7 +13,7 @@
 
 ## Some About Me !&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 👨🏽‍💻 I am Currently working on imporving my AI, ML and Deep Learning skills 
+- 👨🏽‍💻 I am Currently working on imporving my AI, ML, NLP and Deep Learning skills 
 - 💬 My all work in Machine Learning Look into My Repo.
 - 🏄‍ Always into learning new things and looking to contribute to open source as much as possible
 - 💬 Reach me, ask me anything & anytime, I will be happy to help (+91 7858892005)
@@ -21,7 +21,7 @@
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
 <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif"  width="200vw" >
 
-![Pratyusa dwibedy's github stats](https://github-readme-stats.vercel.app/api?username=pratyusa98&show_icons=true&hide_border=true)
+![roubish kr pushkar's github stats](https://github-readme-stats.vercel.app/api?username=pratyusa98&show_icons=true&hide_border=true)
 
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
