@@ -21,8 +21,7 @@
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
 <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif"  width="200vw" >
 
-<-- ![roubish kr pushkar's github stats](https://github-readme-stats.vercel.app/api?username=Roubish_icons=true&hide_border=true)-->
+![Pratyusa dwibedy's github stats](https://github-readme-stats.vercel.app/api?username=pratyusa98&show_icons=true&hide_border=true)
 
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-![](code.gif)
