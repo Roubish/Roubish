@@ -1,6 +1,6 @@
 ### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
 
-![](https://komarev.com/ghpvc/?username=pratyusa98&color=green)
+![](https://komarev.com/ghpvc/?username=roubish&color=green)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
 
 
@@ -21,7 +21,7 @@
 - ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
 <img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif"  width="200vw" >
 
-![Pratyusa dwibedy's github stats](https://github-readme-stats.vercel.app/api?username=pratyusa98&show_icons=true&hide_border=true)
+![Roubish kumar pushkar github stats](https://github-readme-stats.vercel.app/api?username=roubish&show_icons=true&hide_border=true)
 
 
 # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
