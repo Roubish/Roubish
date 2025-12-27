@@ -1,20 +1,9 @@
 ## 👋 Hi there, I'm **Roubish Kumar Pushkar**  
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=roubish&style=flat-square&color=green)
-
-<!-- Followers -->
+![](https://komarev.com/ghpvc/?username=roubish&color=brightgreen)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=roubish)
 ![Followers](https://img.shields.io/github/followers/roubish?style=flat-square&color=blue)
-
-<!-- Stars -->
-![Stars](https://img.shields.io/github/stars/roubish?style=flat-square&color=yellow)
-
-<!-- Commits -->
-![Commits](https://img.shields.io/github/commit-activity/m/roubish?style=flat-square&color=purple)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roubish&layout=compact&theme=radical)
 
 ---
 
