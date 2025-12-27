@@ -12,8 +12,8 @@
 📍 Bangalore, India  
 💡 Data Science | Machine Learning | Computer Vision | AI Enthusiast  
 
-I’m a passionate **Data Scientist & Machine Learning Engineer** with hands-on experience in **Python, Deep Learning, Computer Vision, and Real-time Video Analytics**.  
-I enjoy building **end-to-end AI solutions** for real-world problems.
+I’m a passionate **Data Scientist & Machine Learning Engineer** with hands-on experience in **Python, Deep Learning, Computer Vision, Real-time Video Analytics, and RAG (Retrieval-Augmented Generation)**.  
+I enjoy building **scalable, end-to-end AI solutions** for real-world problems.
 
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/5YEgnkjeryvwA/giphy.gif"/>
 
@@ -21,19 +21,24 @@ I enjoy building **end-to-end AI solutions** for real-world problems.
 
 ## 🧠 What I’m Currently Doing
 
-- 🔭 Improving my **AI, ML, NLP, and Deep Learning** skills  
+- 🔭 Improving my **AI, ML, NLP, Deep Learning & RAG** skills  
 - 🎯 Working on **Computer Vision & Video Analytics projects**
-- 🌱 Learning **advanced ML & deployment techniques**
+- 🌱 Learning **LLMs, Vector Databases, and AI deployment**
 - 🤝 Looking to contribute to **Open Source**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Tools**
-- 🐍 Python | SQL | NoSQL
+**Languages & Databases**
+- 🐍 **Python | SQL | NoSQL**
+
+**AI / ML**
 - 🤖 Machine Learning | Deep Learning  
-- 👁️ Computer Vision (YOLO, OpenCV, DeepStream)  
+- 🧠 NLP | RAG (Retrieval-Augmented Generation)  
+- 👁️ Computer Vision (YOLO, OpenCV, DeepStream)
+
+**Frameworks & Tools**
 - 📦 TensorFlow | PyTorch  
 - 🚀 FastAPI | Flask  
 - ☁️ AWS | Docker  
@@ -43,9 +48,9 @@ I enjoy building **end-to-end AI solutions** for real-world problems.
 
 ## 🎮 Hobbies & Interests
 
-- 🎮 Gaming: NFS, PUBG, The Witcher  
-- 📚 Learning new AI technologies  
-- 🧠 Solving real-world problems with ML  
+- 🎮 Gaming: **NFS, PUBG, The Witcher**  
+- 📚 Exploring new **AI & LLM technologies**
+- 🧠 Solving real-world problems with ML
 
 ---
 
