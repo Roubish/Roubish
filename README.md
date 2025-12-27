@@ -2,20 +2,19 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 <!-- Profile Views -->
-![Profile Views](https://img.shields.io/github/profile/views/roubish?color=brightgreen&label=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=roubish&style=flat-square&color=green)
 
 <!-- Followers -->
-![Followers](https://img.shields.io/github/followers/roubish?color=blue&label=Followers&style=flat-square)
+![Followers](https://img.shields.io/github/followers/roubish?style=flat-square&color=blue)
 
 <!-- Stars -->
 ![Stars](https://img.shields.io/github/stars/roubish?style=flat-square&color=yellow)
 
 <!-- Commits -->
-![Commits](https://img.shields.io/github/commit-activity/m/roubish?color=purple&style=flat-square)
+![Commits](https://img.shields.io/github/commit-activity/m/roubish?style=flat-square&color=purple)
 
-<!-- Language Stats -->
+<!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roubish&layout=compact&theme=radical)
-
 
 ---
 
