@@ -31,7 +31,7 @@ I enjoy building **end-to-end AI solutions** for real-world problems.
 ## 🛠️ Tech Stack
 
 **Languages & Tools**
-- 🐍 Python | SQL  
+- 🐍 Python | SQL | NoSQL
 - 🤖 Machine Learning | Deep Learning  
 - 👁️ Computer Vision (YOLO, OpenCV, DeepStream)  
 - 📦 TensorFlow | PyTorch  
