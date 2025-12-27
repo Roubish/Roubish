@@ -56,10 +56,8 @@ I enjoy building **scalable, end-to-end AI solutions** for real-world problems.
 
 ## 📊 GitHub Stats
 
-## 🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=roubish&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roubish&theme=github_dark" />
 </p>
 
 
