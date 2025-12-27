@@ -85,6 +85,10 @@ I enjoy building **scalable, end-to-end AI solutions** for real-world problems.
 <a href="https://github.com/roubish">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://roubish.github.io/code-cse.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 </p>
 
 ---
