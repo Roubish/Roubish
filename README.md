@@ -1,28 +1,74 @@
-### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">
+## 👋 Hi there, I'm **Roubish Kumar Pushkar**  
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
-![](https://komarev.com/ghpvc/?username=roubish&color=green)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TheDudeThatCode)
+![](https://komarev.com/ghpvc/?username=roubish&color=brightgreen)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=roubish)
 
+---
 
-# I'm Roubish Kumar Pushkar <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="80px">
+## 🚀 About Me
 
+🎓 MCA Graduate from **REVA University**  
+📍 Bangalore, India  
+💡 Data Science | Machine Learning | Computer Vision | AI Enthusiast  
 
-🎓A little about me, I'm Roubish Kumar Pushkar, Data Science and Machine Learning enthusiast, Web and Python Developer , Bangalore, India, Completed MCA in REVA University 😎.Now i am Doing Data Science. My hobby is to playing Video Games Like NFS, PUBG,The Witcher etc. 
+I’m a passionate **Data Scientist & Machine Learning Engineer** with hands-on experience in **Python, Deep Learning, Computer Vision, and Real-time Video Analytics**.  
+I enjoy building **end-to-end AI solutions** for real-world problems.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/5YEgnkjeryvwA/giphy.gif">
+<img align="right" alt="coding" width="280" src="https://media.giphy.com/media/5YEgnkjeryvwA/giphy.gif"/>
 
-## Some About Me !&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+---
 
-- 👨🏽‍💻 I am Currently working on imporving my AI, ML, NLP and Deep Learning skills 
-- 💬 My all work in Machine Learning Look into My Repo.
-- 🏄‍ Always into learning new things and looking to contribute to open source as much as possible
-- 💬 Reach me, ask me anything & anytime, I will be happy to help (+91 7858892005)
-- 📫 How to reach me: I am always active on Linkedin & Gmail, so u can ping me.
-- ⚡️ Fun-Fact: Code, Sleep, Eat & Repeat. Thats all !!!
-<img align="right" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif"  width="200vw" >
+## 🧠 What I’m Currently Doing
 
-![Roubish kumar pushkar github stats](https://github-readme-stats.vercel.app/api?username=roubish&show_icons=true&hide_border=true)
+- 🔭 Improving my **AI, ML, NLP, and Deep Learning** skills  
+- 🎯 Working on **Computer Vision & Video Analytics projects**
+- 🌱 Learning **advanced ML & deployment techniques**
+- 🤝 Looking to contribute to **Open Source**
 
+---
 
-# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-![](code.gif)
+## 🛠️ Tech Stack
+
+**Languages & Tools**
+- 🐍 Python | SQL  
+- 🤖 Machine Learning | Deep Learning  
+- 👁️ Computer Vision (YOLO, OpenCV, DeepStream)  
+- 📦 TensorFlow | PyTorch  
+- 🚀 FastAPI | Flask  
+- ☁️ AWS | Docker  
+- 📊 Pandas | NumPy | Matplotlib  
+
+---
+
+## 🎮 Hobbies & Interests
+
+- 🎮 Gaming: NFS, PUBG, The Witcher  
+- 📚 Learning new AI technologies  
+- 🧠 Solving real-world problems with ML  
+
+---
+
+## 📊 GitHub Stats
+
+![Roubish's GitHub stats](https://github-readme-stats.vercel.app/api?username=roubish&show_icons=true&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect With Me  
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px">
+
+- 💼 LinkedIn: *(add your link)*  
+- 📧 Email: *(add your email)*  
+
+---
+
+## ⚡ Fun Fact
+
+**Code → Eat → Sleep → Repeat 😄**
+
+<img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="180"/>
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
