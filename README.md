@@ -23,26 +23,26 @@ I enjoy building **scalable, end-to-end AI solutions** for real-world problems.
 
 - 🔭 Improving my **AI, ML, NLP, Deep Learning & RAG** skills  
 - 🎯 Working on **Computer Vision & Video Analytics projects**
-- 🌱 Learning **LLMs, Vector Databases, and AI deployment**
+- 🌱 Learning **LLMs, Vector Databases & AI Deployment**
 - 🤝 Looking to contribute to **Open Source**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Databases**
+### 🧑‍💻 Languages & Databases
 - 🐍 **Python | SQL | NoSQL**
 
-**AI / ML**
-- 🤖 Machine Learning | Deep Learning  
-- 🧠 NLP | RAG (Retrieval-Augmented Generation)  
-- 👁️ Computer Vision (YOLO, OpenCV, DeepStream)
+### 🤖 AI / ML
+- Machine Learning | Deep Learning  
+- NLP | **RAG (Retrieval-Augmented Generation)**  
+- Computer Vision (**YOLO, OpenCV, DeepStream**)
 
-**Frameworks & Tools**
-- 📦 TensorFlow | PyTorch  
-- 🚀 FastAPI | Flask  
-- ☁️ AWS | Docker  
-- 📊 Pandas | NumPy | Matplotlib  
+### 🚀 Frameworks & Tools
+- TensorFlow | PyTorch  
+- FastAPI | Flask  
+- AWS | Docker  
+- Pandas | NumPy | Matplotlib  
 
 ---
 
@@ -60,11 +60,21 @@ I enjoy building **scalable, end-to-end AI solutions** for real-world problems.
 
 ---
 
-## 🤝 Connect With Me  
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="28px">
+## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(add your link)*  
-- 📧 Email: *(add your email)*  
+<p align="left">
+<a href="https://www.linkedin.com/in/roubish-pushkar" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:roubishkrpushkar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/roubish">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
