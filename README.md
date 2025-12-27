@@ -12,7 +12,7 @@
 📍 Bangalore, India  
 💡 Data Science | Machine Learning | Computer Vision | AI Enthusiast  
 
-I’m a passionate **Data Scientist & Machine Learning Engineer** with hands-on experience in **Python, Deep Learning, Computer Vision, Real-time Video Analytics, and RAG (Retrieval-Augmented Generation)**.  
+I’m a passionate **Data Scientist & Machine Learning Engineer** with hands-on experience in **Python, Deep Learning, Computer Vision, Real-time Video Analytics, and RAG (Retrieval-Augmented Generation)**, with a strong focus on **production-ready and scalable solutions**.  
 I enjoy building **scalable, end-to-end AI solutions** for real-world problems.
 
 <img align="right" alt="coding" width="280" src="https://media.giphy.com/media/5YEgnkjeryvwA/giphy.gif"/>
