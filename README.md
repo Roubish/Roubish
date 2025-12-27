@@ -5,6 +5,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=roubish)
 ![Followers](https://img.shields.io/github/followers/roubish?style=flat-square&color=blue)
 ![Commits](https://img.shields.io/github/commit-activity/m/roubish?style=flat-square&color=purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roubish&layout=compact&theme=radical)
 
 ---
 
