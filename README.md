@@ -32,11 +32,19 @@ I enjoy building **scalable, end-to-end AI solutions** for real-world problems.
 
 ### 🧑‍💻 Languages & Databases
 - 🐍 **Python | SQL | NoSQL**
+- Software Development
 
 ### 🤖 AI / ML
 - Machine Learning | Deep Learning  
 - NLP | **RAG (Retrieval-Augmented Generation)**  
 - Computer Vision (**YOLO, OpenCV, DeepStream**)
+- **OCR**
+
+### 🎥 Video Analytics & Edge AI
+- **NVIDIA Jetson**
+- **Edge AI**
+- **NVIDIA DeepStream SDK**
+- **FFmpeg**
 
 ### 🚀 Frameworks & Tools
 - TensorFlow | PyTorch  
@@ -59,7 +67,6 @@ I enjoy building **scalable, end-to-end AI solutions** for real-world problems.
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roubish&theme=github_dark" />
 </p>
-
 
 ---
 
