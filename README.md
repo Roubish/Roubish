@@ -42,10 +42,10 @@ I enjoy building **scalable, end-to-end AI solutions** for real-world problems.
 - **OCR**
 
 ### 🎥 Video Analytics & Edge AI
-- **NVIDIA Jetson**
-- **Edge AI**
-- **NVIDIA DeepStream SDK**
-- **FFmpeg**
+- NVIDIA Jetson
+- Edge AI
+- NVIDIA DeepStream SDK
+- FFmpeg
 
 ### 🚀 Frameworks & Tools
 - TensorFlow | PyTorch  
