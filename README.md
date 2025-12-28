@@ -7,7 +7,9 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me<a href="https://roubish.github.io/code-cse.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 🎓 MCA Graduate from **REVA University**  
 📍 Bangalore, India  
