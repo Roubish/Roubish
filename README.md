@@ -2,8 +2,9 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="40px">
 
 ![](https://komarev.com/ghpvc/?username=roubish&color=brightgreen)
-![Visitors](https://visitorbadge.io/api/visitors?path=roubish&label=Visitors&countColor=%23263759)
+![Profile Views](https://komarev.com/ghpvc/?username=roubish&label=Profile%20Views&color=brightgreen&style=flat)
 ![Followers](https://img.shields.io/github/followers/roubish?style=flat-square&color=blue)
+
 
 ---
 
